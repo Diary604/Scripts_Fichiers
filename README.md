@@ -5,3 +5,10 @@
     Par exemple:on classe les dossier fichiers excel,jpg dans le fichier qui chacun convient
 
 ```
+
+##AJOUT FONCTIONS
+
+```
+Aujourd'hui on implemente les fichiers qui recupere les fichiers telechargee
+
+```
