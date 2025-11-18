@@ -12,3 +12,9 @@
 Aujourd'hui on implemente les fichiers qui recupere les fichiers telechargee
 
 ```
+#Bibliotheque
+
+```
+On utilise la bibliotheque 'Watchdog' car elle est efficace pour detecter les evenements des fichiers dans un repertoire
+
+```
